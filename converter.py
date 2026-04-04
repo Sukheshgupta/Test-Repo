@@ -10,6 +10,9 @@ def kgs_to_lbs(kgs):
 def multiplication(a,b):
     return a*b
 
+def addition(a,b):
+    return a+b
+
 
 def main():
     kgs = float(input("Enter weight in kgs: "))
